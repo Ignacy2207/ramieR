@@ -1,11 +1,3 @@
-
-
-  
-
-  
-
-
-
 #include <Servo.h>
 
 Servo ramie;
